@@ -25,7 +25,7 @@ public class Agenda
 			System.out.printf("%s:  \n",dados[c]);			
 			//exibe na tela as informacoes digitadas.
 			agenda[a][c] = read.nextLine();					
-			//grava os dados digitados de 'k'
+			//grava os dados digitados 
 			}	
 				for(b=0;b<5;b++) {							//segundo laco da matriz
 				}
